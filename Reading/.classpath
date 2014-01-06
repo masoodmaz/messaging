@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/gf-client.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.enterprise.deploy.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.jms.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.management.j2ee.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.resource.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.security.auth.message.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.security.jacc.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="C:/glassfishv3/glassfish/modules/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/db-derby-10.6.2.1-bin/lib/derbytools.jar"/>
+	<classpathentry kind="lib" path="C:/db-derby-10.6.2.1-bin/lib/derbyclient.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
